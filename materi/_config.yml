@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Notebook Materi
-author: TOkan Syailendra Wahyudi
+author: Okan Syailendra Wahyudi
 logo: foto.png
 
 # Force re-execution of notebooks on each build.
